@@ -1,5 +1,8 @@
+In this project I have used WebSockets to connect players, create a lobby/ waiting room in which they will wait for the other player to join, as soon as another player is available in the queue, both players are matched and game starts.
 
- 
+When a game starts that randomly chooses which player will choose play first.
+
+Kept check on valdation of move from both the players before broadcasting the move to the other player.
  
  ### Starting Window
 <img width="835" alt="image" src="https://github.com/Aryan-Goel7/SocketGame/assets/95496613/185fea14-a68f-4580-a2ab-bdf7c77851be">
