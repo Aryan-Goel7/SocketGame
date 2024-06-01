@@ -1,17 +1,16 @@
-## Running React on Replit
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+ 
+ 
+ ### Starting Window
+<img width="835" alt="image" src="https://github.com/Aryan-Goel7/SocketGame/assets/95496613/185fea14-a68f-4580-a2ab-bdf7c77851be">
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+### Game Window 
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+### Player 1 turn Window 
+<img width="803" alt="image" src="https://github.com/Aryan-Goel7/SocketGame/assets/95496613/b512ca1d-cc50-49a1-94bf-607eb2f6b275">
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+### Player 2 turn Window
+<img width="619" alt="image" src="https://github.com/Aryan-Goel7/SocketGame/assets/95496613/5543d1e3-c28f-448a-8296-ff7be4a87239">
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+### Winner Window 
+<img width="593" alt="image" src="https://github.com/Aryan-Goel7/SocketGame/assets/95496613/9f854ae4-d8e1-4664-a694-97edae78d047">
